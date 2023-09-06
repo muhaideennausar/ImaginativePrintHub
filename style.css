@@ -181,7 +181,7 @@ body{
 
 .about-box p{
   height: 350px;
-  width: 720px;
+  width: auto;
   font-family: 'Montserrat', sans-serif;
   text-align: justify;
   font-size: 24px;
